@@ -75,3 +75,9 @@
 [03-Jun-2024 15:38:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
 [03-Jun-2024 15:38:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
 [03-Jun-2024 15:38:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[11-Jun-2024 13:52:04 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\copeau\Local Sites\Planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[11-Jun-2024 13:52:04 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[11-Jun-2024 13:52:04 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[11-Jun-2024 13:52:04 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[11-Jun-2024 13:52:04 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[11-Jun-2024 13:52:04 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
