@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Elementor Website Builder &#8211; More than Just a Page Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-13 10:08:12+0000\n"
+"PO-Revision-Date: 2024-06-28 15:34:26+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -389,7 +389,7 @@ msgstr "Nonce non valide."
 msgid "You do not have permission to edit these settings."
 msgstr "Vous n’êtes pas autorisé à modifier ces réglages."
 
-#: modules/ai/module.php:156
+#: modules/ai/module.php:158
 msgid "Tap into the potential of AI to easily create and customize containers to your specifications, right within Elementor. This feature comes packed with handy AI tools, including generation, variations, and URL references."
 msgstr "Exploitez le potentiel de l’IA pour créer et personnaliser facilement des conteneurs selon vos spécifications, directement dans Elementor. Cette fonctionnalité est livrée avec des outils d’IA pratiques, notamment la génération, les variantes et les URL de référence."
 
@@ -492,7 +492,7 @@ msgstr "Chargement optimisé des images"
 msgid "Optimized Gutenberg Loading"
 msgstr "Chargement optimisé de Gutenberg"
 
-#: modules/ai/module.php:155 assets/js/ai-layout.js:838
+#: modules/ai/module.php:157 assets/js/ai-layout.js:838
 msgid "Build with AI"
 msgstr "Construire avec l’IA"
 
@@ -626,27 +626,27 @@ msgstr "Rainuré"
 msgid "Border Type"
 msgstr "Type de bordure"
 
-#: includes/controls/groups/background.php:605
+#: includes/controls/groups/background.php:606
 msgid "Background Fallback"
 msgstr "Arrière-plan de remplacement"
 
-#: includes/controls/groups/background.php:476
+#: includes/controls/groups/background.php:477
 msgid "Display Size"
 msgstr "Taille d’écran"
 
-#: includes/controls/groups/background.php:299
+#: includes/controls/groups/background.php:300
 msgid "Background Image"
 msgstr "Image d’arrière-plan"
 
-#: includes/controls/groups/background.php:243
+#: includes/controls/groups/background.php:244
 msgid "Angle"
 msgstr "Angle"
 
-#: includes/controls/groups/background.php:232
+#: includes/controls/groups/background.php:233
 msgid "Radial"
 msgstr "Radial"
 
-#: includes/controls/groups/background.php:231
+#: includes/controls/groups/background.php:232
 msgid "Linear"
 msgstr "Linéaire"
 
@@ -730,9 +730,9 @@ msgid "Collapse"
 msgstr "Replier"
 
 #: modules/nested-accordion/widgets/nested-accordion.php:222
-#: assets/js/ai-admin.js:9443 assets/js/ai-gutenberg.js:11113
-#: assets/js/ai-layout.js:5703 assets/js/ai-media-library.js:11072
-#: assets/js/ai.js:10198
+#: assets/js/ai-admin.js:9447 assets/js/ai-gutenberg.js:11117
+#: assets/js/ai-layout.js:5707 assets/js/ai-media-library.js:11076
+#: assets/js/ai.js:10202
 msgid "Expand"
 msgstr "Déplier"
 
@@ -782,9 +782,9 @@ msgstr "Les modifications ne seront répercutées qu’après %1$s enregistremen
 msgid "Build Smart with AI"
 msgstr "Construire intelligemment avec l’IA"
 
-#: includes/controls/groups/background.php:99 assets/js/ai-admin.js:11035
-#: assets/js/ai-gutenberg.js:12705 assets/js/ai-media-library.js:12664
-#: assets/js/ai.js:11790
+#: includes/controls/groups/background.php:99 assets/js/ai-admin.js:11039
+#: assets/js/ai-gutenberg.js:12709 assets/js/ai-media-library.js:12668
+#: assets/js/ai.js:11794
 msgid "Gradient"
 msgstr "Dégradé"
 
@@ -1469,7 +1469,7 @@ msgstr "Ajouter un nouveau conteneur"
 msgid "Bold"
 msgstr "Gras"
 
-#: includes/controls/groups/background.php:725
+#: includes/controls/groups/background.php:726
 #: includes/widgets/image-carousel.php:392
 msgid "Lazyload"
 msgstr "Chargement différé"
@@ -1616,20 +1616,20 @@ msgid "Text Stroke"
 msgstr "Contour de texte"
 
 #: includes/admin-templates/beta-tester.php:53 assets/js/ai-admin.js:6578
-#: assets/js/ai-admin.js:14492 assets/js/ai-gutenberg.js:8248
-#: assets/js/ai-gutenberg.js:16162 assets/js/ai-layout.js:3125
-#: assets/js/ai-layout.js:6031 assets/js/ai-media-library.js:8207
-#: assets/js/ai-media-library.js:16121 assets/js/ai.js:7333
-#: assets/js/ai.js:15247
+#: assets/js/ai-admin.js:14496 assets/js/ai-gutenberg.js:8248
+#: assets/js/ai-gutenberg.js:16166 assets/js/ai-layout.js:3125
+#: assets/js/ai-layout.js:6035 assets/js/ai-media-library.js:8207
+#: assets/js/ai-media-library.js:16125 assets/js/ai.js:7333
+#: assets/js/ai.js:15251
 msgid "Privacy Policy"
 msgstr "Politique de confidentialité"
 
 #: includes/admin-templates/beta-tester.php:48 assets/js/ai-admin.js:6574
-#: assets/js/ai-admin.js:14488 assets/js/ai-gutenberg.js:8244
-#: assets/js/ai-gutenberg.js:16158 assets/js/ai-layout.js:3121
-#: assets/js/ai-layout.js:6027 assets/js/ai-media-library.js:8203
-#: assets/js/ai-media-library.js:16117 assets/js/ai.js:7329
-#: assets/js/ai.js:15243
+#: assets/js/ai-admin.js:14492 assets/js/ai-gutenberg.js:8244
+#: assets/js/ai-gutenberg.js:16162 assets/js/ai-layout.js:3121
+#: assets/js/ai-layout.js:6031 assets/js/ai-media-library.js:8203
+#: assets/js/ai-media-library.js:16121 assets/js/ai.js:7329
+#: assets/js/ai.js:15247
 msgid "Terms of Service"
 msgstr "Conditions d’utilisation"
 
@@ -1942,90 +1942,90 @@ msgstr "Compatible"
 msgid "Round"
 msgstr "Rond"
 
-#: includes/controls/groups/background.php:463 includes/widgets/common.php:1088
+#: includes/controls/groups/background.php:464 includes/widgets/common.php:1088
 msgid "Repeat-x"
 msgstr "Répéter sur X"
 
-#: includes/controls/groups/background.php:464 includes/widgets/common.php:1089
+#: includes/controls/groups/background.php:465 includes/widgets/common.php:1089
 msgid "Repeat-y"
 msgstr "Répéter en Y"
 
-#: includes/controls/groups/background.php:461 includes/widgets/common.php:1086
+#: includes/controls/groups/background.php:462 includes/widgets/common.php:1086
 msgid "No-repeat"
 msgstr "Aucune répétition"
 
-#: includes/controls/groups/background.php:462 includes/widgets/common.php:1083
+#: includes/controls/groups/background.php:463 includes/widgets/common.php:1083
 #: includes/widgets/common.php:1087
 msgid "Repeat"
 msgstr "Répéter"
 
-#: includes/controls/groups/background.php:383 includes/widgets/common.php:1047
+#: includes/controls/groups/background.php:384 includes/widgets/common.php:1047
 msgid "Y Position"
 msgstr "Position Y"
 
-#: includes/controls/groups/background.php:340 includes/widgets/common.php:1011
+#: includes/controls/groups/background.php:341 includes/widgets/common.php:1011
 msgid "X Position"
 msgstr "Position X"
 
-#: includes/controls/groups/background.php:274
-#: includes/controls/groups/background.php:326
-#: includes/controls/groups/background.php:714 includes/widgets/common.php:997
+#: includes/controls/groups/background.php:275
+#: includes/controls/groups/background.php:327
+#: includes/controls/groups/background.php:715 includes/widgets/common.php:997
 #: includes/widgets/image.php:390
 msgid "Bottom Right"
 msgstr "En bas à droite"
 
-#: includes/controls/groups/background.php:273
-#: includes/controls/groups/background.php:325
-#: includes/controls/groups/background.php:713 includes/widgets/common.php:996
+#: includes/controls/groups/background.php:274
+#: includes/controls/groups/background.php:326
+#: includes/controls/groups/background.php:714 includes/widgets/common.php:996
 #: includes/widgets/image.php:389
 msgid "Bottom Left"
 msgstr "En bas à gauche"
 
-#: includes/controls/groups/background.php:272
-#: includes/controls/groups/background.php:324
-#: includes/controls/groups/background.php:712 includes/widgets/common.php:995
+#: includes/controls/groups/background.php:273
+#: includes/controls/groups/background.php:325
+#: includes/controls/groups/background.php:713 includes/widgets/common.php:995
 #: includes/widgets/image.php:388
 msgid "Bottom Center"
 msgstr "En bas au centre"
 
-#: includes/controls/groups/background.php:271
-#: includes/controls/groups/background.php:323
-#: includes/controls/groups/background.php:711 includes/widgets/common.php:994
+#: includes/controls/groups/background.php:272
+#: includes/controls/groups/background.php:324
+#: includes/controls/groups/background.php:712 includes/widgets/common.php:994
 #: includes/widgets/image.php:387
 msgid "Top Right"
 msgstr "En haut à droite"
 
-#: includes/controls/groups/background.php:270
-#: includes/controls/groups/background.php:322
-#: includes/controls/groups/background.php:710 includes/widgets/common.php:993
+#: includes/controls/groups/background.php:271
+#: includes/controls/groups/background.php:323
+#: includes/controls/groups/background.php:711 includes/widgets/common.php:993
 #: includes/widgets/image.php:386
 msgid "Top Left"
 msgstr "En haut à gauche"
 
-#: includes/controls/groups/background.php:269
-#: includes/controls/groups/background.php:321
-#: includes/controls/groups/background.php:709 includes/widgets/common.php:992
+#: includes/controls/groups/background.php:270
+#: includes/controls/groups/background.php:322
+#: includes/controls/groups/background.php:710 includes/widgets/common.php:992
 #: includes/widgets/image.php:385
 msgid "Top Center"
 msgstr "Centré en haut"
 
-#: includes/controls/groups/background.php:268
-#: includes/controls/groups/background.php:320
-#: includes/controls/groups/background.php:708 includes/widgets/common.php:991
+#: includes/controls/groups/background.php:269
+#: includes/controls/groups/background.php:321
+#: includes/controls/groups/background.php:709 includes/widgets/common.php:991
 #: includes/widgets/image.php:384
 msgid "Center Right"
 msgstr "Centré à droite"
 
-#: includes/controls/groups/background.php:267
-#: includes/controls/groups/background.php:319
-#: includes/controls/groups/background.php:707 includes/widgets/common.php:990
+#: includes/controls/groups/background.php:268
+#: includes/controls/groups/background.php:320
+#: includes/controls/groups/background.php:708 includes/widgets/common.php:990
 #: includes/widgets/image.php:383
 msgid "Center Left"
 msgstr "Centré à gauche"
 
-#: includes/controls/groups/background.php:266
-#: includes/controls/groups/background.php:318
-#: includes/controls/groups/background.php:706 includes/widgets/common.php:989
+#: includes/controls/groups/background.php:267
+#: includes/controls/groups/background.php:319
+#: includes/controls/groups/background.php:707 includes/widgets/common.php:989
 #: includes/widgets/image.php:382
 msgid "Center Center"
 msgstr "Centré au centre"
@@ -2115,7 +2115,7 @@ msgstr "Écran large"
 
 #: core/base/db-upgrades-manager.php:114
 msgid "Database update process is running in the background. Taking a while?"
-msgstr "Le processus de mise à jour de la base de données est exécuté en arrière-plan. Ça prend du temps ?"
+msgstr "Le processus de mise à jour de la base de données est exécuté en arrière-plan. Cela peut prendre du temps."
 
 #: core/admin/admin-notices.php:326
 msgid "With Elementor Pro, you can control user access and make sure no one messes up your design."
@@ -2808,8 +2808,8 @@ msgid "%s Widget"
 msgstr "Le widget %s"
 
 #: core/experiments/manager.php:145 includes/editor-templates/global.php:30
-#: assets/js/ai-admin.js:9620 assets/js/ai-gutenberg.js:11290
-#: assets/js/ai-media-library.js:11249 assets/js/ai.js:10375
+#: assets/js/ai-admin.js:9624 assets/js/ai-gutenberg.js:11294
+#: assets/js/ai-media-library.js:11253 assets/js/ai.js:10379
 #: assets/js/app.js:7894 assets/js/editor.js:47012
 msgid "Back"
 msgstr "Retour"
@@ -2869,30 +2869,30 @@ msgstr "Pause à l’interaction"
 msgid "%s Video Player"
 msgstr "Lecteur vidéo %s"
 
-#: includes/controls/groups/background.php:700
+#: includes/controls/groups/background.php:701
 msgid "Background Position"
 msgstr "Position de l’arrière-plan"
 
-#: includes/controls/groups/background.php:484
-#: includes/controls/groups/background.php:689 includes/widgets/image.php:367
+#: includes/controls/groups/background.php:485
+#: includes/controls/groups/background.php:690 includes/widgets/image.php:367
 msgid "Contain"
 msgstr "Contenir"
 
-#: includes/controls/groups/background.php:483
-#: includes/controls/groups/background.php:688 includes/widgets/image.php:366
+#: includes/controls/groups/background.php:484
+#: includes/controls/groups/background.php:689 includes/widgets/image.php:366
 #: modules/conversion-center/base/widget-link-in-bio-base.php:956
 #: modules/conversion-center/base/widget-link-in-bio-base.php:993
 msgid "Cover"
 msgstr "Couvrir"
 
-#: includes/controls/groups/background.php:482
-#: includes/controls/groups/background.php:687
+#: includes/controls/groups/background.php:483
+#: includes/controls/groups/background.php:688
 #: includes/elements/container.php:585 includes/widgets/social-icons.php:281
 #: includes/widgets/video.php:588
 msgid "Auto"
 msgstr "Auto"
 
-#: includes/controls/groups/background.php:681
+#: includes/controls/groups/background.php:682
 msgid "Background Size"
 msgstr "Taille de l’arrière-plan"
 
@@ -2919,11 +2919,11 @@ msgstr "Préférences"
 msgid "Custom Icons"
 msgstr "Icônes personnalisées"
 
-#: includes/controls/groups/background.php:653
+#: includes/controls/groups/background.php:654
 msgid "Transition"
 msgstr "Transition"
 
-#: includes/controls/groups/background.php:643
+#: includes/controls/groups/background.php:644
 msgid "Duration"
 msgstr "Durée"
 
@@ -3063,27 +3063,27 @@ msgstr "Bouclé"
 msgid "Basic Gallery"
 msgstr "Galerie basique"
 
-#: includes/controls/groups/background.php:752
+#: includes/controls/groups/background.php:753
 msgid "Out"
 msgstr "Dehors"
 
-#: includes/controls/groups/background.php:751
+#: includes/controls/groups/background.php:752
 msgid "In"
 msgstr "Dans"
 
-#: includes/controls/groups/background.php:736
+#: includes/controls/groups/background.php:737
 msgid "Ken Burns Effect"
 msgstr "Effet Ken Burns"
 
-#: includes/controls/groups/background.php:606
+#: includes/controls/groups/background.php:607
 msgid "This cover image will replace the background video in case that the video could not be loaded."
 msgstr "Cette image de couverture remplacera la vidéo d’arrière-plan dans le cas où la vidéo ne peut pas être chargée."
 
-#: includes/controls/groups/background.php:581 includes/widgets/video.php:364
+#: includes/controls/groups/background.php:582 includes/widgets/video.php:364
 msgid "Play On Mobile"
 msgstr "Lire sur mobile"
 
-#: includes/controls/groups/background.php:526
+#: includes/controls/groups/background.php:527
 msgid "YouTube/Vimeo link, or link to video file (mp4 is recommended)."
 msgstr "Lien YouTube/Vimeo ou lien vers le fichier vidéo (mp4 est recommandé)."
 
@@ -3105,7 +3105,7 @@ msgstr "Chemin du fichier : %s"
 msgid "Need Help"
 msgstr "Besoin d’aide"
 
-#: includes/controls/groups/background.php:571
+#: includes/controls/groups/background.php:572
 msgid "Play Once"
 msgstr "Jouer une unique fois"
 
@@ -3559,15 +3559,15 @@ msgstr "Afficher/Masquer le panneau"
 msgid "Go To"
 msgstr "Aller à"
 
-#: includes/editor-templates/hotkeys.php:32 assets/js/ai-admin.js:12882
-#: assets/js/ai-gutenberg.js:14552 assets/js/ai-media-library.js:14511
-#: assets/js/ai.js:13637
+#: includes/editor-templates/hotkeys.php:32 assets/js/ai-admin.js:12886
+#: assets/js/ai-gutenberg.js:14556 assets/js/ai-media-library.js:14515
+#: assets/js/ai.js:13641
 msgid "Redo"
 msgstr "Refaire"
 
-#: includes/editor-templates/hotkeys.php:24 assets/js/ai-admin.js:12871
-#: assets/js/ai-gutenberg.js:14541 assets/js/ai-media-library.js:14500
-#: assets/js/ai.js:13626 assets/js/kit-elements-defaults-editor.js:236
+#: includes/editor-templates/hotkeys.php:24 assets/js/ai-admin.js:12875
+#: assets/js/ai-gutenberg.js:14545 assets/js/ai-media-library.js:14504
+#: assets/js/ai.js:13630 assets/js/kit-elements-defaults-editor.js:236
 msgid "Undo"
 msgstr "Défaire"
 
@@ -3596,7 +3596,7 @@ msgstr "Tableau de bord"
 
 #: core/common/modules/finder/categories/site.php:46
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:12
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:23
 msgid "Homepage"
 msgstr "Page d’accueil"
 
@@ -3738,11 +3738,11 @@ msgid "Congrats!"
 msgstr "Félicitations !"
 
 #: core/kits/documents/tabs/settings-lightbox.php:76 includes/frontend.php:1368
-#: includes/widgets/google-maps.php:156 assets/js/ai-admin.js:10041
-#: assets/js/ai-admin.js:10044 assets/js/ai-gutenberg.js:11711
-#: assets/js/ai-gutenberg.js:11714 assets/js/ai-media-library.js:11670
-#: assets/js/ai-media-library.js:11673 assets/js/ai.js:10796
-#: assets/js/ai.js:10799
+#: includes/widgets/google-maps.php:156 assets/js/ai-admin.js:10045
+#: assets/js/ai-admin.js:10048 assets/js/ai-gutenberg.js:11715
+#: assets/js/ai-gutenberg.js:11718 assets/js/ai-media-library.js:11674
+#: assets/js/ai-media-library.js:11677 assets/js/ai.js:10800
+#: assets/js/ai.js:10803
 msgid "Zoom"
 msgstr "Zoom"
 
@@ -3846,19 +3846,19 @@ msgctxt "Filter Control"
 msgid "Blur"
 msgstr "Flou"
 
-#: includes/controls/groups/background.php:561 includes/widgets/video.php:322
+#: includes/controls/groups/background.php:562 includes/widgets/video.php:322
 msgid "Specify an end time (in seconds)"
 msgstr "Spécifier une heure de fin (en secondes)"
 
-#: includes/controls/groups/background.php:559 includes/widgets/video.php:320
+#: includes/controls/groups/background.php:560 includes/widgets/video.php:320
 msgid "End Time"
 msgstr "Heure de fin"
 
-#: includes/controls/groups/background.php:549 includes/widgets/video.php:311
+#: includes/controls/groups/background.php:550 includes/widgets/video.php:311
 msgid "Specify a start time (in seconds)"
 msgstr "Spécifiez une heure de début (en seconde)"
 
-#: includes/controls/groups/background.php:547 includes/widgets/video.php:309
+#: includes/controls/groups/background.php:548 includes/widgets/video.php:309
 msgid "Start Time"
 msgstr "Heure de début"
 
@@ -3906,8 +3906,8 @@ msgstr "Opacité"
 msgid "Max Width"
 msgstr "Largeur max."
 
-#: includes/controls/groups/background.php:263
-#: includes/controls/groups/background.php:311
+#: includes/controls/groups/background.php:264
+#: includes/controls/groups/background.php:312
 #: includes/controls/groups/box-shadow.php:69
 #: includes/elements/container.php:1388 includes/widgets/common.php:339
 #: includes/widgets/common.php:986 includes/widgets/divider.php:748
@@ -4101,7 +4101,7 @@ msgstr "Jeton expiré."
 msgid "Set how many slides are scrolled per swipe."
 msgstr "Définissez combien de diapositives défilent par glissement."
 
-#: includes/controls/groups/background.php:446
+#: includes/controls/groups/background.php:447
 msgid "Note: Attachment Fixed works only on desktop."
 msgstr "Remarque : le fichier joint fixé fonctionne uniquement sur ordinateur."
 
@@ -4121,7 +4121,7 @@ msgstr "Version actuelle"
 msgid "When you turn on privacy mode, YouTube/Vimeo won't store information about visitors on your website unless they play the video."
 msgstr "Lorsque vous activez le mode confidentialité, YouTube/Vimeo ne stocke pas d’information sur les visiteurs de votre site, à moins qu’ils ne lisent la vidéo."
 
-#: includes/controls/groups/background.php:595 includes/widgets/video.php:454
+#: includes/controls/groups/background.php:596 includes/widgets/video.php:454
 msgid "Privacy Mode"
 msgstr "Mode confidentialité"
 
@@ -4275,7 +4275,7 @@ msgstr "Retirer"
 #: includes/editor-templates/repeater.php:21 assets/js/editor.js:30492
 #: assets/js/editor.js:50424
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:20
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:16
 msgid "Duplicate"
 msgstr "Dupliquer"
 
@@ -4597,7 +4597,7 @@ msgstr "Index-Z"
 #: core/kits/documents/tabs/theme-style-form-fields.php:137
 #: core/kits/documents/tabs/theme-style-images.php:203
 #: includes/base/element-base.php:1233
-#: includes/controls/groups/background.php:671 includes/elements/column.php:318
+#: includes/controls/groups/background.php:672 includes/elements/column.php:318
 #: includes/elements/column.php:478 includes/elements/column.php:586
 #: includes/elements/container.php:720 includes/elements/container.php:939
 #: includes/elements/container.php:1088 includes/elements/section.php:580
@@ -4814,93 +4814,93 @@ msgstr "Espace entre"
 msgid "List"
 msgstr "Liste"
 
-#: includes/shapes.php:209
+#: includes/shapes.php:212
 msgctxt "Shapes"
 msgid "Book"
 msgstr "Livre"
 
-#: includes/shapes.php:205
+#: includes/shapes.php:208
 msgctxt "Shapes"
 msgid "Split"
 msgstr "Fendu"
 
-#: includes/shapes.php:201
+#: includes/shapes.php:204
 msgctxt "Shapes"
 msgid "Arrow"
 msgstr "Flèche"
 
-#: includes/shapes.php:197
+#: includes/shapes.php:200
 msgctxt "Shapes"
 msgid "Waves Pattern"
 msgstr "Motif de vagues"
 
-#: includes/shapes.php:193
+#: includes/shapes.php:196
 msgctxt "Shapes"
 msgid "Waves Brush"
 msgstr "Pinceau de vagues"
 
-#: includes/shapes.php:188
+#: includes/shapes.php:191
 msgctxt "Shapes"
 msgid "Waves"
 msgstr "Vagues"
 
-#: includes/shapes.php:183
+#: includes/shapes.php:186
 msgctxt "Shapes"
 msgid "Curve Asymmetrical"
 msgstr "Courbe asymétrique"
 
-#: includes/shapes.php:179
+#: includes/shapes.php:182
 msgctxt "Shapes"
 msgid "Curve"
 msgstr "Courbe"
 
-#: includes/shapes.php:176
+#: includes/shapes.php:179
 msgctxt "Shapes"
 msgid "Fan Opacity"
 msgstr "Opacité du ventilateur"
 
-#: includes/shapes.php:172
+#: includes/shapes.php:175
 msgctxt "Shapes"
 msgid "Tilt Opacity"
 msgstr "Opacité d’inclinaison"
 
-#: includes/shapes.php:167
+#: includes/shapes.php:170
 msgctxt "Shapes"
 msgid "Tilt"
 msgstr "Ligne diagonale"
 
-#: includes/shapes.php:162
+#: includes/shapes.php:165
 msgctxt "Shapes"
 msgid "Triangle Asymmetrical"
 msgstr "Triangle asymétrique"
 
-#: includes/shapes.php:158
+#: includes/shapes.php:161
 msgctxt "Shapes"
 msgid "Triangle"
 msgstr "Triangle"
 
-#: includes/shapes.php:153
+#: includes/shapes.php:156
 msgctxt "Shapes"
 msgid "Pyramids"
 msgstr "Pyramides"
 
-#: includes/shapes.php:150 includes/widgets/divider.php:171
+#: includes/shapes.php:153 includes/widgets/divider.php:171
 #: includes/widgets/divider.php:301
 msgctxt "Shapes"
 msgid "Zigzag"
 msgstr "Zigzag"
 
-#: includes/shapes.php:144
+#: includes/shapes.php:147
 msgctxt "Shapes"
 msgid "Clouds"
 msgstr "Nuages"
 
-#: includes/shapes.php:138
+#: includes/shapes.php:141
 msgctxt "Shapes"
 msgid "Drops"
 msgstr "Gouttes"
 
-#: includes/shapes.php:134
+#: includes/shapes.php:137
 msgctxt "Shapes"
 msgid "Mountains"
 msgstr "Montagnes"
@@ -4966,13 +4966,13 @@ msgstr "Ajouter votre id personnalisé sans la touche carré. par exemple : mon
 msgid "CSS ID"
 msgstr "ID de CSS"
 
-#: includes/controls/groups/background.php:228
+#: includes/controls/groups/background.php:229
 msgctxt "Background Control"
 msgid "Type"
 msgstr "Type"
 
 #: includes/controls/groups/background.php:183
-#: includes/controls/groups/background.php:211
+#: includes/controls/groups/background.php:212
 msgctxt "Background Control"
 msgid "Location"
 msgstr "Emplacement"
@@ -5538,8 +5538,8 @@ msgstr "Coller"
 #: modules/conversion-center/base/widget-contact-button-base.php:686
 #: modules/conversion-center/base/widget-contact-button-base.php:695
 #: modules/conversion-center/base/widget-link-in-bio-base.php:1375
-#: assets/js/ai-admin.js:11031 assets/js/ai-gutenberg.js:12701
-#: assets/js/ai-media-library.js:12660 assets/js/ai.js:11786
+#: assets/js/ai-admin.js:11035 assets/js/ai-gutenberg.js:12705
+#: assets/js/ai-media-library.js:12664 assets/js/ai.js:11790
 msgid "Background"
 msgstr "Arrière-plan"
 
@@ -5579,7 +5579,7 @@ msgstr "À l’extérieur"
 msgid "Inside"
 msgstr "À l’intérieur"
 
-#: includes/controls/groups/background.php:747
+#: includes/controls/groups/background.php:748
 #: includes/controls/groups/flex-container.php:29
 #: includes/widgets/image-carousel.php:503
 #: modules/nested-tabs/widgets/nested-tabs.php:170
@@ -5645,7 +5645,7 @@ msgstr "Boucle"
 msgid "Video Options"
 msgstr "Options vidéo"
 
-#: includes/controls/groups/background.php:523
+#: includes/controls/groups/background.php:524
 msgid "Video Link"
 msgstr "Lien de la vidéo"
 
@@ -5689,7 +5689,7 @@ msgstr "Diaporama"
 msgid "Vertical Alignment"
 msgstr "Alignement vertical"
 
-#: includes/controls/groups/background.php:632
+#: includes/controls/groups/background.php:633
 #: includes/widgets/image-carousel.php:462
 msgid "Infinite Loop"
 msgstr "Boucle infinie"
@@ -5996,8 +5996,8 @@ msgstr "Couleur principale"
 #: includes/widgets/icon-box.php:134 includes/widgets/icon.php:146
 #: includes/widgets/social-icons.php:267
 #: modules/conversion-center/base/widget-link-in-bio-base.php:1541
-#: assets/js/ai-admin.js:11085 assets/js/ai-gutenberg.js:12755
-#: assets/js/ai-media-library.js:12714 assets/js/ai.js:11840
+#: assets/js/ai-admin.js:11089 assets/js/ai-gutenberg.js:12759
+#: assets/js/ai-media-library.js:12718 assets/js/ai.js:11844
 msgid "Square"
 msgstr "Carré"
 
@@ -6139,7 +6139,7 @@ msgstr "Légende"
 
 #: core/kits/documents/tabs/theme-style-images.php:21
 #: core/kits/documents/tabs/theme-style-images.php:51
-#: includes/controls/groups/background.php:621
+#: includes/controls/groups/background.php:622
 #: includes/widgets/image-gallery.php:220
 msgid "Images"
 msgstr "Images"
@@ -6285,7 +6285,7 @@ msgstr "Diapositives à afficher"
 msgid "Choose Image"
 msgstr "Choisissez une image"
 
-#: includes/controls/groups/background.php:290 includes/widgets/common.php:899
+#: includes/controls/groups/background.php:291 includes/widgets/common.php:899
 #: includes/widgets/image-box.php:333 includes/widgets/image-carousel.php:673
 #: includes/widgets/image.php:45 includes/widgets/image.php:108
 #: includes/widgets/image.php:233 includes/widgets/testimonial.php:298
@@ -6414,11 +6414,11 @@ msgstr "Bouton"
 
 #: core/common/modules/finder/categories/edit.php:30
 #: includes/controls/popover-toggle.php:68 assets/js/ai-admin.js:2940
-#: assets/js/ai-admin.js:10014 assets/js/ai-admin.js:10021
-#: assets/js/ai-gutenberg.js:4569 assets/js/ai-gutenberg.js:11684
-#: assets/js/ai-gutenberg.js:11691 assets/js/ai-media-library.js:4569
-#: assets/js/ai-media-library.js:11643 assets/js/ai-media-library.js:11650
-#: assets/js/ai.js:3423 assets/js/ai.js:10769 assets/js/ai.js:10776
+#: assets/js/ai-admin.js:10018 assets/js/ai-admin.js:10025
+#: assets/js/ai-gutenberg.js:4569 assets/js/ai-gutenberg.js:11688
+#: assets/js/ai-gutenberg.js:11695 assets/js/ai-media-library.js:4569
+#: assets/js/ai-media-library.js:11647 assets/js/ai-media-library.js:11654
+#: assets/js/ai.js:3423 assets/js/ai.js:10773 assets/js/ai.js:10780
 #: assets/js/element-manager-admin.js:2520
 #: assets/js/element-manager-admin.js:2577
 msgid "Edit"
@@ -6890,7 +6890,7 @@ msgid "Boxed"
 msgstr "Encadré"
 
 #: core/settings/editor-preferences/model.php:90
-#: includes/controls/groups/background.php:497
+#: includes/controls/groups/background.php:498
 #: includes/controls/image-dimensions.php:95
 #: includes/elements/container.php:444 includes/elements/container.php:1195
 #: includes/elements/section.php:263 includes/elements/section.php:975
@@ -7079,9 +7079,9 @@ msgid "Advanced"
 msgstr "Avancé"
 
 #: includes/managers/controls.php:330 includes/widgets/divider.php:367
-#: includes/widgets/icon-list.php:279 assets/js/ai-admin.js:10323
-#: assets/js/ai-gutenberg.js:11993 assets/js/ai-media-library.js:11952
-#: assets/js/ai.js:11078 assets/js/editor.js:9681 assets/js/editor.js:36825
+#: includes/widgets/icon-list.php:279 assets/js/ai-admin.js:10327
+#: assets/js/ai-gutenberg.js:11997 assets/js/ai-media-library.js:11956
+#: assets/js/ai.js:11082 assets/js/editor.js:9681 assets/js/editor.js:36825
 msgid "Style"
 msgstr "Style"
 
@@ -7249,8 +7249,8 @@ msgstr "Ajouter un élément"
 #: assets/js/editor.js:28090 assets/js/editor.js:30584
 #: assets/js/editor.js:47330 assets/js/import-export-admin.js:287
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:21
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:26
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:17
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:22
 msgid "Delete"
 msgstr "Effacer"
 
@@ -7258,8 +7258,8 @@ msgstr "Effacer"
 msgid "Select Icon"
 msgstr "Sélectionnez une icône"
 
-#: core/kits/manager.php:139 includes/controls/groups/background.php:327
-#: includes/controls/groups/background.php:485
+#: core/kits/manager.php:139 includes/controls/groups/background.php:328
+#: includes/controls/groups/background.php:486
 #: includes/controls/groups/flex-item.php:24
 #: includes/controls/groups/flex-item.php:93
 #: includes/controls/groups/flex-item.php:142
@@ -7376,37 +7376,37 @@ msgstr "Solide"
 #: includes/widgets/image-gallery.php:156
 #: includes/widgets/image-gallery.php:174 includes/widgets/image.php:143
 #: includes/widgets/image.php:178 includes/widgets/video.php:589
-#: modules/nested-tabs/widgets/nested-tabs.php:385 assets/js/ai-admin.js:11017
-#: assets/js/ai-admin.js:11023 assets/js/ai-admin.js:11033
-#: assets/js/ai-admin.js:11044 assets/js/ai-admin.js:11055
-#: assets/js/ai-admin.js:11071 assets/js/ai-gutenberg.js:12687
-#: assets/js/ai-gutenberg.js:12693 assets/js/ai-gutenberg.js:12703
-#: assets/js/ai-gutenberg.js:12714 assets/js/ai-gutenberg.js:12725
-#: assets/js/ai-gutenberg.js:12741 assets/js/ai-media-library.js:12646
-#: assets/js/ai-media-library.js:12652 assets/js/ai-media-library.js:12662
-#: assets/js/ai-media-library.js:12673 assets/js/ai-media-library.js:12684
-#: assets/js/ai-media-library.js:12700 assets/js/ai.js:11772
-#: assets/js/ai.js:11778 assets/js/ai.js:11788 assets/js/ai.js:11799
-#: assets/js/ai.js:11810 assets/js/ai.js:11826
+#: modules/nested-tabs/widgets/nested-tabs.php:385 assets/js/ai-admin.js:11021
+#: assets/js/ai-admin.js:11027 assets/js/ai-admin.js:11037
+#: assets/js/ai-admin.js:11048 assets/js/ai-admin.js:11059
+#: assets/js/ai-admin.js:11075 assets/js/ai-gutenberg.js:12691
+#: assets/js/ai-gutenberg.js:12697 assets/js/ai-gutenberg.js:12707
+#: assets/js/ai-gutenberg.js:12718 assets/js/ai-gutenberg.js:12729
+#: assets/js/ai-gutenberg.js:12745 assets/js/ai-media-library.js:12650
+#: assets/js/ai-media-library.js:12656 assets/js/ai-media-library.js:12666
+#: assets/js/ai-media-library.js:12677 assets/js/ai-media-library.js:12688
+#: assets/js/ai-media-library.js:12704 assets/js/ai.js:11776
+#: assets/js/ai.js:11782 assets/js/ai.js:11792 assets/js/ai.js:11803
+#: assets/js/ai.js:11814 assets/js/ai.js:11830
 msgid "None"
 msgstr "Aucun"
 
-#: includes/controls/groups/background.php:455
+#: includes/controls/groups/background.php:456
 msgctxt "Background Control"
 msgid "Repeat"
 msgstr "Répéter"
 
-#: includes/controls/groups/background.php:432
+#: includes/controls/groups/background.php:433
 msgctxt "Background Control"
 msgid "Fixed"
 msgstr "Fixe"
 
-#: includes/controls/groups/background.php:431
+#: includes/controls/groups/background.php:432
 msgctxt "Background Control"
 msgid "Scroll"
 msgstr "Défilement"
 
-#: includes/controls/groups/background.php:426
+#: includes/controls/groups/background.php:427
 msgctxt "Background Control"
 msgid "Attachment"
 msgstr "Fichier joint"
@@ -7502,12 +7502,12 @@ msgstr "Haut"
 #: core/experiments/manager.php:510
 #: core/settings/editor-preferences/model.php:120
 #: includes/base/widget-base.php:296 includes/controls/animation.php:152
-#: includes/controls/font.php:66 includes/controls/groups/background.php:317
-#: includes/controls/groups/background.php:430
-#: includes/controls/groups/background.php:460
-#: includes/controls/groups/background.php:481
-#: includes/controls/groups/background.php:686
-#: includes/controls/groups/background.php:705
+#: includes/controls/font.php:66 includes/controls/groups/background.php:318
+#: includes/controls/groups/background.php:431
+#: includes/controls/groups/background.php:461
+#: includes/controls/groups/background.php:482
+#: includes/controls/groups/background.php:687
+#: includes/controls/groups/background.php:706
 #: includes/controls/groups/border.php:63
 #: includes/controls/groups/flex-container.php:208
 #: includes/controls/groups/flex-item.php:23

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Contact Form 7 - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-13 12:44:04+0000\n"
+"PO-Revision-Date: 2024-06-28 09:28:26+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,10 @@ msgstr ""
 "X-Generator: GlotPress/4.0.1\n"
 "Language: fr\n"
 "Project-Id-Version: Plugins - Contact Form 7 - Stable (latest release)\n"
+
+#: includes/contact-form.php:576
+msgid "Invalid action URL is detected."
+msgstr "Une URL d’action invalide a été détectée."
 
 #: modules/constant-contact/service.php:371
 msgid "This feature is deprecated. You are not recommended to use it."
@@ -21,7 +25,7 @@ msgstr "https://contactform7.com/2024/02/02/we-end-the-constant-contact-integrat
 
 #: modules/constant-contact/service.php:368
 msgid "Warning:"
-msgstr "Attention : "
+msgstr "Avertissement : "
 
 #: modules/checkbox.php:285 modules/select.php:217
 msgid "Undefined value was submitted through this field."
@@ -30,6 +34,10 @@ msgstr "Une valeur non définie a été envoyée dans ce champ."
 #: admin/admin.php:693
 msgid "The Constant Contact integration is deprecated. It is not recommended to continue using the feature."
 msgstr "L’intégration de Constant Contact est obsolète. Il n’est pas recommandé de continuer à l’utiliser."
+
+#: includes/rest-api.php:360
+msgid "There is no valid unit tag."
+msgstr "Il n’y a aucune balise d’unité valide."
 
 #: modules/sendinblue/contact-form-properties.php:99
 #: modules/sendinblue/service.php:154
@@ -310,6 +318,11 @@ msgstr "https://contactform7.com/stripe-integration/"
 #: admin/includes/welcome-panel.php:158
 msgid "With help from cloud-based machine learning, anti-spam services will protect your forms (%1$s). Even payment services are natively supported (%2$s)."
 msgstr "Grâce à l’apprentissage automatique basé sur le cloud, les services anti-spam protégeront vos formulaires (%1$s). Même les services de paiement sont pris en charge de manière native (%2$s)."
+
+#. translators: 1: link labeled 'Brevo'
+#: admin/includes/welcome-panel.php:150
+msgid "Your contact forms will become more powerful and versatile by integrating them with external APIs. With CRM and email marketing services, you can build your own contact lists (%1$s)."
+msgstr "Vos formulaires de contact deviendront plus puissants et polyvalents en les intégrant avec des API externes. Grâce aux services de CRM et de marketing par e-mail, vous pouvez construire vos propres listes de contacts (%1$s)."
 
 #: admin/includes/welcome-panel.php:142
 msgid "You have strong allies to back you up."
