@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Elementor Website Builder &#8211; More than Just a Page Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-28 15:34:26+0000\n"
+"PO-Revision-Date: 2024-07-07 10:35:32+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,194 @@ msgstr ""
 "X-Generator: GlotPress/4.0.1\n"
 "Language: fr\n"
 "Project-Id-Version: Plugins - Elementor Website Builder &#8211; More than Just a Page Builder - Stable (latest release)\n"
+
+#: modules/element-cache/module.php:136
+msgid "1 Year"
+msgstr "1 an"
+
+#: modules/element-cache/module.php:135
+msgid "1 Month"
+msgstr "1 mois"
+
+#: modules/element-cache/module.php:134
+msgid "2 Weeks"
+msgstr "2 semaines"
+
+#: modules/element-cache/module.php:133
+msgid "1 Week"
+msgstr "1 semaine"
+
+#: modules/element-cache/module.php:132
+msgid "3 Days"
+msgstr "3 jours"
+
+#: modules/element-cache/module.php:131
+msgid "1 Day"
+msgstr "1 jour"
+
+#: modules/element-cache/module.php:130
+msgid "12 Hours"
+msgstr "12 heures"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:231
+msgid "Skype"
+msgstr "Skype"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:225
+msgid "Viber"
+msgstr "Viber"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:219
+msgid "SMS"
+msgstr "SMS"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:213
+msgid "File Download"
+msgstr "Téléchargement de fichier"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:195
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:189
+msgid "Messenger"
+msgstr "Messenger"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:183
+msgid "Waze"
+msgstr "Waze"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:171
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:165
+msgid "Behance"
+msgstr "Behance"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:153
+msgid "Spotify"
+msgstr "Spotify"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:147
+msgid "Apple Music"
+msgstr "Apple Music"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:141
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:135
+msgid "TikTok"
+msgstr "TikTok"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:123
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:117
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:111
+msgid "Instagram"
+msgstr "Instagram"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:105
+msgid "X (Twitter)"
+msgstr "X (Twitter)"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:99
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/conversion-center/classes/providers/social-network-provider.php:93
+msgid "Save contact (vCard)"
+msgstr "Enregistrer le contact (vCard)"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:1631
+msgid "Bottom Border"
+msgstr "Bordure inférieure"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:1604
+msgid "Image Height"
+msgstr "Hauteur de l’image"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:1536
+msgid "Image Shape"
+msgstr "Forme de l’image"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:1147
+msgid "Dividers"
+msgstr "Séparateurs"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:1023
+msgid "CTA Links"
+msgstr "Lien d’appel à action"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:992
+msgid "Profile"
+msgstr "Profil"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:988
+msgid "Image style"
+msgstr "Style de l’image"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:947
+#: modules/conversion-center/base/widget-link-in-bio-base.php:1195
+msgid "Identity"
+msgstr "Identité"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:919
+msgid "About Me"
+msgstr "À propos de moi"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:918
+msgid "About"
+msgstr "À propos"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:897
+#: modules/conversion-center/base/widget-link-in-bio-base.php:1269
+msgid "Title or Tagline"
+msgstr "Titre ou slogan"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:888
+msgid "Sara Parker"
+msgstr "Sara Parker"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:874
+#: modules/conversion-center/base/widget-link-in-bio-base.php:1233
+msgid "Bio"
+msgstr "Biographie"
+
+#: modules/conversion-center/base/widget-link-in-bio-base.php:376
+msgid "Enter your number"
+msgstr "Saisir votre numéro"
+
+#: modules/conversion-center/base/widget-contact-button-base.php:672
+msgid "Close Button Color"
+msgstr "Couleur du bouton « Fermer »"
+
+#: modules/conversion-center/base/widget-contact-button-base.php:663
+msgid "Close Button"
+msgstr "Bouton « Fermer »"
+
+#: modules/conversion-center/base/widget-contact-button-base.php:330
+msgid "Type your text here"
+msgstr "Saisissez votre texte ici"
+
+#: modules/conversion-center/base/widget-contact-button-base.php:329
+msgid "Click to start chat"
+msgstr "Cliquer pour démarrer le chat"
+
+#: modules/conversion-center/base/widget-contact-button-base.php:319
+#: modules/conversion-center/base/widget-contact-button-base.php:883
+msgid "Send Button"
+msgstr "Bouton « Envoyer »"
+
+#: modules/conversion-center/base/widget-contact-button-base.php:303
+msgid "Display Typing Animation"
+msgstr "Afficher l’animation de saisie"
 
 #: modules/promotions/admin-menu-items/go-pro-promotion-item.php:33
 msgid "Upgrade Sale Now"
@@ -6235,7 +6423,7 @@ msgstr "Séparateur"
 #: modules/conversion-center/base/widget-link-in-bio-base.php:364
 #: modules/conversion-center/base/widget-link-in-bio-base.php:607
 msgid "Number"
-msgstr "Nombre"
+msgstr "Numéro"
 
 #: includes/widgets/counter.php:217
 msgid "Cool Number"
