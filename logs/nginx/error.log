@@ -2,3 +2,5 @@
 2024/06/11 17:43:25 [alert] 22712#31016: OpenEvent("ngx_master_21924") failed (2: The system cannot find the file specified)
 2024/06/11 23:23:27 [error] 10532#19032: *87 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "planty.local", referrer: "http://planty.local/wp-admin/edit.php?post_type=page"
 2024/06/24 17:11:01 [error] 6568#10920: *7082 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "planty.local", referrer: "http://planty.local/wp-admin/post.php?post=11&action=elementor"
+2024/07/09 02:32:25 [alert] 33484#6328: worker process 33424 exited with code C0000142
+2024/07/09 02:32:25 [alert] 33484#6328: could not respawn worker
