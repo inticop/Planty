@@ -129,3 +129,8 @@
 [02-Jul-2024 16:04:55 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 29
 [02-Jul-2024 16:05:30 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 29
 [02-Jul-2024 16:06:11 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 29
+[10-Jul-2024 14:43:11 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[10-Jul-2024 14:43:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\copeau\Local Sites\Planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[10-Jul-2024 14:43:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\copeau\Local Sites\Planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[10-Jul-2024 14:43:14 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[10-Jul-2024 14:43:51 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 32
