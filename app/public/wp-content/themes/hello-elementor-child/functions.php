@@ -22,16 +22,3 @@ endif;
 add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 998 );
 
 // END ENQUEUE PARENT ACTION
-
-add_filter('wp_nav_menu_items', 'add_admin_link_to_menu', 10, 2);
-function add_admin_link_to_menu($items, $args) {
-    if (is_user_logged_in() && $args->menu->slug == 'menu-1-fd0c6d4') {
-        $admin_link = '<li class="menu-item"><a href="' . admin_url() . '">Admin</a></li>';
-        $menu_item_position = strpos($items, 'menu-item-31');
-        if ($menu_item_position !== false) {
-            $menu_item_position = strpos($items, '</li>', $menu_item_position) + 5;
-            $items = substr_replace($items, $admin_link, $menu_item_position, 0);
-        }
-    }
-    return $items;
-}

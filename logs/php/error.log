@@ -165,3 +165,7 @@
 [11-Jul-2024 10:06:07 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
 [11-Jul-2024 10:10:29 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
 [11-Jul-2024 10:10:29 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[12-Jul-2024 14:01:30 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[12-Jul-2024 14:01:30 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[12-Jul-2024 14:01:43 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[12-Jul-2024 14:01:43 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
