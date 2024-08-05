@@ -169,3 +169,6 @@
 [12-Jul-2024 14:01:30 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
 [12-Jul-2024 14:01:43 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
 [12-Jul-2024 14:01:43 UTC] PHP Warning:  Attempt to read property "slug" on string in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[05-Aug-2024 09:40:02 UTC] PHP Parse error:  syntax error, unexpected token "." in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[05-Aug-2024 09:40:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\copeau\Local Sites\Planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[05-Aug-2024 09:40:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\copeau\Local Sites\Planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
