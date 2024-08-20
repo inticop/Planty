@@ -2,9 +2,9 @@
 Contributors: elemntor
 Tags: page builder, editor, landing page, drag-and-drop, elementor,
 Requires at least: 6.0
-Tested up to: 6.6
+Tested up to: 6.5
 Requires PHP: 7.4
-Stable tag: 3.23.3
+Stable tag: 3.23.4
 Beta tag: 3.23.0-beta6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -224,7 +224,7 @@ Join a global community that helps each other achieve their goals.
 
 = Minimum Requirements =
 
-* WordPress 6.3 or greater
+* WordPress 6.0 or greater
 * PHP version 7.4 or greater
 * MySQL version 5.0 or greater
 
@@ -272,11 +272,11 @@ It works with almost all the plugins. If you experience an incompatibility issue
 
 **Do I need to know how to code?**
 
-No! Elementor provides you with all the widgets and features that you need to build a professional website without using code.
+No! Elementor provides you with all the widgets and features that you need to build a proffesional website without using code.
 
 **Do i need to know how to design?**
 
-No, you can choose between professionally designed kits and templates that fit toevery industry and have all you need to create your own professional website.
+No, you can choose between professionaly designed kits and templates that fit toevery industry and have all you need to create your own profesional website.
 
 **Will elementor slow down my website?**
 
@@ -315,6 +315,10 @@ You can also add a new language via [translate.wordpress.org](https://go.element
 6. **Motion Effects** - Add entrance animations and transitions to any element in your website to captivate visitors.
 
 == Changelog ==
+
+= 3.23.4 - 2024-08-05 =
+
+* Fix: Links to Elementor Settings are broken in various locations
 
 = 3.23.3 - 2024-07-25 =
 

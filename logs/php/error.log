@@ -172,3 +172,47 @@
 [05-Aug-2024 09:40:02 UTC] PHP Parse error:  syntax error, unexpected token "." in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
 [05-Aug-2024 09:40:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\copeau\Local Sites\Planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
 [05-Aug-2024 09:40:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\copeau\Local Sites\Planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[09-Aug-2024 09:37:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:37:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:37:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:37:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:37:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:44:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:44:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:44:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:44:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:44:22 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:28 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:28 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:28 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:28 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:28 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:41 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:41 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:41 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:41 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:48:41 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:49:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:49:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:49:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:49:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:49:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:56:12 UTC] PHP Parse error:  syntax error, unexpected identifier "current_user_can" in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:56:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\copeau\Local Sites\Planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[09-Aug-2024 09:56:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\copeau\Local Sites\Planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[09-Aug-2024 09:56:22 UTC] PHP Parse error:  syntax error, unexpected identifier "current_user_can" in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:57:31 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:57:31 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:57:31 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:57:31 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:57:31 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:16 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:23 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:23 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:23 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:23 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28
+[09-Aug-2024 09:58:23 UTC] PHP Warning:  Undefined property: stdClass::$thème_location in C:\Users\copeau\Local Sites\Planty\app\public\wp-content\themes\hello-elementor-child\functions.php on line 28

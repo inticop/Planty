@@ -11,3 +11,119 @@ Updated: 2024-06-11 13:52:04
 
 */
 
+body {
+    font-family: 'Syne', sans-serif;
+    background-color: #3D9448;
+    padding: 20px;
+    margin: 0;
+}
+
+.form-container {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #3D9448;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.product {
+    text-align: center;
+}
+
+.product-image {
+    width: 193px;
+    height: 129px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-name {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+
+.product-input {
+    width: 39px;
+    height: 56px;
+    margin-top: 10px;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.divider {
+    height: 1px;
+    background-color: white;
+    margin: 20px 0;
+}
+
+.form-sections {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.form-group {
+    width: 45%;
+}
+
+.form-group h2 {
+    color: white;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.vertical-divider {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background-color: white;
+    transform: translateX(-50%);
+}
+
+.submit-btn {
+    display: block;
+    width: 198px;
+    height: 55px;
+    padding: 0;
+    background-color: #E0B9B4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    margin: 20px auto 0 auto;
+    line-height: 55px; /* Centrer verticalement le texte */
+}

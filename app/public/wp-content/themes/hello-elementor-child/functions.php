@@ -22,3 +22,12 @@ endif;
 add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 998 );
 
 // END ENQUEUE PARENT ACTION
+
+function add_extra_item_to_nav_menu( $items, $args ) {
+    if (is_user_logged_in() && current_user_can('administrator') && $args->theme_location == 'primary') {
+        $items .= '<li class="admin_button"><a href="'.admin_url().'" class="admin_a">Admin</a></li>';
+    }
+    return $items;
+}
+add_filter('wp_nav_menu_items','add_extra_item_to_nav_menu', 10, 2);
+?>
